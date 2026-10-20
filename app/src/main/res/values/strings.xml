@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lab1</string>
+    <string name="title">Сортировка слов по числу гласных</string>
+    <string name="input_label">Текст</string>
+    <string name="sort_button">Сортировать</string>
+    <string name="result_label">Результат</string>
+    <string name="empty_input">В тексте нет ни одного слова</string>
 </resources>
