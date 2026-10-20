@@ -13,5 +13,8 @@ class WordSorter {
         val sortedWordList = words.sortedBy {word -> countVowels(word)}
         return sortedWordList.joinToString (" ")
     }
-
+    companion object {
+        const val SAMPLE_TEXT =
+            "Я собака - ты собака, я собака - ты собака"
+    }
 }
